@@ -1,3 +1,2 @@
 # SMA_project
-안녕하세요 \
-코드입니다
+I am NOT the author of the provided arduino code
