@@ -1,2 +1,2 @@
 # SMA_project
-I am NOT the author of the provided arduino code
+I am NOT the author of the provided arduino code and imu.py
