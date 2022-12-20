@@ -1,3 +1,3 @@
 # SMA_project
-I am NOT the author of the provided arduino code and imu.py \n
+I am <strong>NOT</strong> the author of the provided arduino code and imu.py <br>
 You need DJITelloPy @damiafuentes to operate the codes
